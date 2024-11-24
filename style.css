@@ -1,0 +1,58 @@
+*{
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+.yum{
+  font-family: "Dancing Script", cursive;
+  color: #DA3832;
+}
+.nav-item{
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 14px;
+}
+
+.menu{
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 35px;
+}
+div.polaroid {
+  margin-bottom: 25px;
+  display: flex;
+}
+
+div.container {
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 24px;
+}
+.ww{
+  font-family: "Josefin Sans", sans-serif;
+}
+.buffet{
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 30px;
+  margin: 20px 0px 10px;
+font-weight: bold;
+}
+footer{
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 14px;
+}
+.mm{
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.bb{
+  margin-left: 60px;
+  margin-top: 20px;
+}
+.cc{
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.m1{
+height: 201px;
+width: 1140px;
+/* background-image: url('menu01.gif'); */
+}
